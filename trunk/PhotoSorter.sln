@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSorter.Business", "PhotoSorter.Business\PhotoSorter.Business.csproj", "{3F45318D-0779-4166-8933-83BC2F5264D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSorter.Console", "PhotoSorter.Console\PhotoSorter.Console.csproj", "{F137C90F-E761-4FE6-AC28-AF044EE4E68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSorter.UI", "PhotoSorter.UI\PhotoSorter.UI.csproj", "{C8850F36-3C7F-442C-9E41-E783C0E7E346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F45318D-0779-4166-8933-83BC2F5264D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F45318D-0779-4166-8933-83BC2F5264D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F45318D-0779-4166-8933-83BC2F5264D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F45318D-0779-4166-8933-83BC2F5264D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F137C90F-E761-4FE6-AC28-AF044EE4E68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F137C90F-E761-4FE6-AC28-AF044EE4E68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F137C90F-E761-4FE6-AC28-AF044EE4E68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F137C90F-E761-4FE6-AC28-AF044EE4E68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8850F36-3C7F-442C-9E41-E783C0E7E346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8850F36-3C7F-442C-9E41-E783C0E7E346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8850F36-3C7F-442C-9E41-E783C0E7E346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8850F36-3C7F-442C-9E41-E783C0E7E346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
